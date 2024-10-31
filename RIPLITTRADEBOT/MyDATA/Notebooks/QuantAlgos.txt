@@ -1,0 +1,43 @@
+Statistical Arbitrage:
+
+Pairs Trading: Involves trading two correlated assets. When the prices diverge, traders sell the overvalued asset and buy the undervalued one, expecting them to converge again.
+Index Arbitrage: Exploits price differences between an index and its constituent stocks.
+Momentum Trading:
+
+Trend Following: Buys assets that have shown upward price movement and sells assets that have shown downward movement.
+Mean Reversion: Assumes that the price of an asset will revert to its mean or average price over time.
+Market Making:
+
+Provides liquidity by simultaneously placing buy and sell orders to capture the spread between bid and ask prices.
+High-Frequency Trading (HFT):
+
+Executes a large number of orders at extremely high speeds, capitalizing on minute price discrepancies.
+Algorithmic Execution Strategies:
+
+VWAP (Volume Weighted Average Price): Aims to execute an order close to the average price of the security throughout the day.
+TWAP (Time Weighted Average Price): Spreads out the order over a specific time period to minimize market impact.
+Machine Learning Algorithms:
+
+Uses models trained on historical data to predict future price movements.
+Supervised Learning: Uses labeled data to train models like linear regression, support vector machines, and neural networks.
+Unsupervised Learning: Identifies patterns in data without predefined labels, such as clustering and dimensionality reduction techniques.
+Sentiment Analysis:
+
+Analyzes news articles, social media, and other textual data to gauge market sentiment and make trading decisions based on the derived sentiment scores.
+Arbitrage Strategies:
+
+Triangular Arbitrage: Exploits price differences between three related currencies in the forex market.
+Cross-Exchange Arbitrage: Identifies price differences for the same asset on different exchanges.
+Option Pricing Models:
+
+Uses models like Black-Scholes or binomial tree models to price options and identify mispriced options for trading.
+Event-Driven Strategies:
+
+Merger Arbitrage: Trades stocks of companies involved in mergers or acquisitions, buying the target company's stock and shorting the acquiring company's stock.
+Earnings Announcements: Trades based on anticipated reactions to company earnings reports.
+Factor Investing:
+
+Identifies factors (e.g., value, growth, size, momentum) that explain asset returns and builds portfolios based on these factors.
+Portfolio Optimization:
+
+Uses mathematical models to construct a portfolio that maximizes return for a given level of risk, or minimizes risk for a given level of return.
